@@ -1,1 +1,7 @@
-/home/saivishnu/.gitconfig
+[user]
+	email = saivishnu725@gmail.com
+	name = Sai Vishnu
+[core]
+	editor = nano
+[credential]
+	helper = store
